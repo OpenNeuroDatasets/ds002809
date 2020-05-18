@@ -1,0 +1,12 @@
+{
+    "Name": "VaryingISI-TwoVisualPathways",
+    "BIDSVersion": "1.2.2",
+    "Authors": [
+    "Jiaxin Li",
+    "Bingbing Guo",
+    "Lin Cui",
+    "Hong Huang",
+    "Ming Meng"
+     ],
+    "License": "CC0"
+}
